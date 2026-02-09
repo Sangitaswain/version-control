@@ -2,6 +2,8 @@
 
 This repository is created for learning Git and version control concepts.
 
+Project collab with Sangita
+
 ## Files Included
 
 - `hello.txt` - Simple hello world text file
