@@ -1,0 +1,4 @@
+Hello World!
+
+This is a sample file for learning Git version control.
+Welcome to my Git class project!
